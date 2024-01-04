@@ -1,4 +1,4 @@
-# Launch Checklist
+# Launch Checklist (readME created by LaunchCode for future students)
 
 ## Assignment Requirements
 
